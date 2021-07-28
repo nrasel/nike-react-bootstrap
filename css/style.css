@@ -1,0 +1,10 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.logo-width{
+    width: 225px;
+    height: 31px;
+}
+.nav-item a{
+    color: #3C3C3C;
+}
